@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130179725079",
+    "project_id": "quote-generator-e1376",
+    "storage_bucket": "quote-generator-e1376.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130179725079:android:481eb5d54e810c2da16952",
+        "android_client_info": {
+          "package_name": "com.example.quote_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcQ4SFsDfm2nmOIdxYc5TWd0_NmzoFsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
